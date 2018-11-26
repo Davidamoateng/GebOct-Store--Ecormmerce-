@@ -1,0 +1,14 @@
+Name: GebOct Store
+Built By: David Amoateng
+Company: Geboct Techologies Ltd.
+Date: 30th-July-2018
+
+About the application:
+
+Geboct Store is a PHP eCommerce web application that is
+built to market products of the user.
+The app has a front-end and a back-end.
+
+Picture-size : 157/109.
+Navigation-Banner-Image-Size: 1300/400[45.86/14.11].
+The maximum size of the product image the user can upload is 15MB.

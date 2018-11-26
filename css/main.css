@@ -1,0 +1,80 @@
+body{
+    background-color:whitesmoke;
+    /* padding-top: 50px; */
+}
+ #background-Wallpaper{
+    position: relative;
+    padding: 0;
+    margin-top: 84px;
+    /* overflow: hidden;*/
+    height: 370px;
+    /* background-image: url("../images/Hero Desktop.jpg"); */
+    background-repeat: no-repeat;
+    background-size: 100% 370px;
+    background-position: top center;
+    /* background-attachment: fixed;*/
+} 
+/* #header-Logo{
+    position: absolute;
+    width: 100%;
+    height: 180px;
+    background-image: url(../images/Geboct-header-logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70% 180px;
+    top: 50px;
+    margin-top: 180px;
+} */
+img.details{
+    width: 33%;
+    margin: 15px auto; 
+}
+/* 
+#shop-cart{
+    position: absolute;
+    width:100%;
+    height: 350px;
+    background-image: url(../images/shop-cart.png);
+    background-position: left;
+    background-repeat: no-repeat; 
+    background-size: auto 250px;
+     
+} 
+#gagdet-Image{
+    position: absolute;
+    width: 100%;
+    height: 380px;
+    background-image: url(../images/pc_repairs.png);
+    background-size: auto 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    top:225px;
+} */
+
+/* #backview-Laptop{
+    position: absolute;
+    width: 100%;
+    height: 350px;
+    background-image: url();
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: auto 250px;
+    top:225px;
+    left:-120px;
+}*/
+
+.table-auto{
+    width: auto;
+    margin: 0 auto;
+}
+
+#login-form{
+    width: 50%;
+    hieght: 60px;
+    border: 2px solid #000;
+    border-radius: 15px;
+    box-shadow: 7px 7px 15px rgba(0,0,0,0.6);
+    margin: 7% auto;
+    padding: 15px;
+    background-color: #fff;
+}
